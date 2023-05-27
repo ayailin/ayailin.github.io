@@ -217,3 +217,12 @@ html{
     cursor: pointer;
     box-shadow: 0 0 10px white;
 }
+.footer{
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   width: 100vw;
+   height: 30px;
+   background-color: grey;
+}
